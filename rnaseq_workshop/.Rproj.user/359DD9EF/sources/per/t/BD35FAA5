@@ -1,0 +1,26 @@
+{
+    "id": "BD35FAA5",
+    "path": "~/rnaseq_workshop/enrichment_mm.Rmd",
+    "project_path": "enrichment_mm.Rmd",
+    "type": "r_markdown",
+    "hash": "2468155005",
+    "contents": "",
+    "dirty": false,
+    "created": 1774482097224.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "16,19",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1774544363,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1774544363397,
+    "read_only": false,
+    "read_only_alternatives": []
+}

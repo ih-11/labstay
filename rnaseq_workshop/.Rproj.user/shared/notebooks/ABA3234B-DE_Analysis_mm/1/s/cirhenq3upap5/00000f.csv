@@ -1,0 +1,5 @@
+"0","top.table$Gene.stable.ID.version <- rownames(top.table)"
+"0","top.table <- left_join(top.table, anno, by = ""Gene.stable.ID.version"")"
+"0","top.table <- dplyr::select(top.table, Gene.stable.ID.version, Gene.name, everything())"
+"0",""
+"0","head(top.table)"

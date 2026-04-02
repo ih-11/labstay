@@ -1,0 +1,32 @@
+{
+    "id": "D073F66A",
+    "path": "~/rnaseq_workshop/DE_Analysis_mm.Rmd",
+    "project_path": "DE_Analysis_mm.Rmd",
+    "type": "r_markdown",
+    "hash": "165019890",
+    "contents": "",
+    "dirty": false,
+    "created": 1774479581094.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "432,0",
+        "scrollLine": "0",
+        "rmdVisualMode": "false",
+        "rmdVisualCollapsedChunks": "1",
+        "rmdVisualModeLocation": "6236:4388",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "0",
+        "docOutlineSize": "493"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1774479497,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1774479649813,
+    "read_only": false,
+    "read_only_alternatives": []
+}

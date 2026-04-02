@@ -1,0 +1,3 @@
+"0","intercept <- coef(fit)[""ENSMUSG00000056054.10"", ""(Intercept)""]"
+"0","slope <- coef(fit)[""ENSMUSG00000056054.10"", ""pH""]"
+"0","abline(a = intercept, b = slope)"

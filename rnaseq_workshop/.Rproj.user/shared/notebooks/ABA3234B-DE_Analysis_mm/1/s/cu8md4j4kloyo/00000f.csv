@@ -1,0 +1,2 @@
+"0","results <- decideTests(fit2)"
+"0","vennDiagram(results, names = c(""C"", ""NC""), main = ""DE Genes Between KOMIR150 and WT by Cell Type"", cex.main = 0.8)"
