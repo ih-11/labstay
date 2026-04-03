@@ -55,7 +55,7 @@ to be continued ...
   <tr>
     <td style="font-size:13px; line-height:1.7;">
       <strong>Address:</strong> 8916-5 Takayama, Ikoma, Nara 630-0192, Japan<br>
-      <strong>Tel:</strong> +81 80-2054-0499<br>
+      <strong>Tel:</strong> N/A<br>
       <strong>NAIST Email:</strong>
       <a href="mailto:halim.ibnu.hd2@bs.naist.jp">halim.ibnu.hd2@bs.naist.jp</a><br>
       <strong>Personal Email:</strong>
