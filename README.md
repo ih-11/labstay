@@ -29,9 +29,8 @@ to be continued ...
 
 -----
 
+... 
 
-
-```
 <!DOCTYPE html>
 <html>
   <body style="margin:0; padding:0; font-family: Arial, Helvetica, sans-serif; color:#111;">
@@ -48,12 +47,13 @@ to be continued ...
         </td>
       </tr>
 
+
       <tr>
         <td style="padding-top:14px;">
           <div style="border-top:2px solid #111; width:520px;"></div>
         </td>
       </tr>
-
+    
       <tr>
         <td style="padding-top:12px; font-size:11px; line-height:1.75;">
           <strong>Address:</strong> 8916-5 Takayama, Ikoma, Nara 630-0192, Japan<br>
@@ -71,5 +71,6 @@ to be continued ...
     </table>
   </body>
 </html>
-```
+
+
 
