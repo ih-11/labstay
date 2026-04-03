@@ -11,3 +11,6 @@ take it home with you-ah!
   <img src="figs/fig1.png" alt="fig1" style="zoom:50%;" />
 
 This course was more likely to learn about downstream analysis AND YES IT'S VERY EXPENSIVE. 
+
+- ### Day 1 (CLI)
+
