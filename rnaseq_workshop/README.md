@@ -12,5 +12,11 @@ take it home with you-ah!
 
 This course was more likely to learn about downstream analysis AND YES IT'S VERY EXPENSIVE. 
 
-- ### Day 1 (CLI)
+- ### CLI
+
+  Learn about 'bashing' using a course from korf's lab or viki's repo both are ok!, I know its alot and takes time, trust me the key is "CONSISTENT AND KEEP TRYING - NEVER STOP"
+
+- ### Data (/data)
+
+  Understand the data that you want to work with. In this time you gonna work with this type file *fasta (.fa), fastq (.fastq or .fastq.gz), gtf/gff, sam/bam/cram. Since we will be working with rnaseq type data so mainly the data will be two part first */data/raw* contain .fa .fastq.gz or bam/sam/cram. second */data/ref contain all information of your reference genome.
 
