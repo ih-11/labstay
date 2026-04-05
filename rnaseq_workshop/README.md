@@ -8,7 +8,7 @@ take it home with you-ah!
 
   Sboner A, Mu XJ, Greenbaum D, Auerbach RK, Gerstein MB. The real cost of sequencing: higher than you think! Genome Biol. 2011 Aug 25;12(8):125. doi: 10.1186/gb-2011-12-8-125. PMID: 21867570; PMCID: PMC3245608.
 
-  <img src="figs/fig1.png" alt="fig1" style="zoom:50%;" />
+  <img src="figs/fig1.png" alt="fig1" style="zoom:40%;" />
 
 This course was more likely to learn about downstream analysis AND YES IT'S VERY EXPENSIVE. 
 
