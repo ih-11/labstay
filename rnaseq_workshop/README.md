@@ -14,7 +14,9 @@ This course was more likely to learn about downstream analysis AND YES IT'S VERY
 
 - ### CLI
 
-  Learn about 'bashing' using a course from korf's lab or viki's repo both are ok!, I know its alot and takes time, trust me the key is "CONSISTENT AND KEEP TRYING - NEVER STOP"
+  there is alot of sources for you to learn about bashing either windows, unix/linux or Mac style on the internet. I am slow learner and from my experience - Learn about 'bashing' using a course from korf's lab or viki's repo both are ok!, I know its alot and takes time, trust me the key is "CONSISTENT AND KEEP TRYING - NEVER STOP". Even until now i am still shit with bashing. the lowest bar: "YOU CAN READ COMMAND LINE OR SCRIPT".
+
+  another recommended source: https://github.com/cosmicqbit/Learn-Linux
 
 - ### Data (/data)
 
