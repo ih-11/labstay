@@ -1,6 +1,8 @@
 # illumina RNA-Seq Data Processing
 
-please find the full course tutorial in this github:
+this repo was made for only to document my journey to learn how to process short-read RNAseq.
+
+If you wanna know how, please find the full course tutorial in this github:
 
 https://github.com/ucdavis-bioinformatics-training/2026-March-RNA-Seq-Analysis
 
