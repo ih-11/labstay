@@ -1,6 +1,6 @@
 # illumina RNA-Seq Data Processing
 
-take it home with you-ah!
+*take it home with you-ah!*
 
 please find the full course tutorial in this github:
 
