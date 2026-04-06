@@ -2,6 +2,12 @@
 
 take it home with you-ah!
 
+please find the full course tutorial in this github:
+
+https://github.com/ucdavis-bioinformatics-training/2026-March-RNA-Seq-Analysis
+
+https://ucdavis-bioinformatics-training.github.io/2026-March-RNA-Seq-Analysis/ 
+
 "If the data scientist has done their job correctly the *statistical models* don't need to complicated to identify important relationships, *In fact, if a complicated statistical model seems necessary, it often means that you don't have the right data to answer the question!*"
 
 - ### the real cost of sequencing
