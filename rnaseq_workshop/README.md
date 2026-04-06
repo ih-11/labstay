@@ -22,7 +22,7 @@ This course was more likely to learn about downstream analysis AND YES IT'S VERY
 
 -----
 
-[TOC]
+Insert how the normally pipeline for processing NGS data look like.
 
 ## 1. CLI
 
@@ -33,4 +33,6 @@ another recommended source: https://github.com/cosmicqbit/Learn-Linux
 ## 2. Data (/data)
 
 Understand the data that you want to work with. In this time you gonna work with this type file *fasta (.fa), fastq (.fastq or .fastq.gz), gtf/gff, sam/bam/cram. Since we will be working with rnaseq type data so mainly the data will be two part first */data/raw* contain .fa .fastq.gz or bam/sam/cram. second */data/ref contain all information of your reference genome.
+
+
 
