@@ -38,5 +38,5 @@ Understand the data that you want to work with. In this time you gonna work with
 
 I am so lazy, i love my self so much
 
-all is well, everything is working out for my highest good, and out of this situation only good will come and i am safe
+all is well, everything is working out for my highest good, and out of this situation only good will come and i am sa
 
